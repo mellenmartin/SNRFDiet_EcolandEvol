@@ -12,7 +12,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 
-setwd("C:/Users/yourdrivehere")
+setwd("C:/Users/yourdrivehere/DietData")
 
 diet <- read.csv("SNRFCoyote_diet_250327.csv")
 names(diet) = tolower(names(diet))
