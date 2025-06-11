@@ -13,7 +13,7 @@ library(dplyr)
 library(ggplot2)
 
 ###  Load from csv
-#setwd("C:/Users/yourwdhere//")
+setwd("C:/Users/yourdrivehere/DietData")
 
 diet <- read.csv("ProcessedRedFox_DietGeoDataSimplified_250404.csv") #SNRF diet
 yotediet <- read.csv("ProcessedCoyoteRedFoxStudyArea_DietGeoDataSimplified_250404.csv") # CALA diet
