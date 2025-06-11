@@ -1,15 +1,15 @@
 # Diet patterns of sympatric Sierra Nevada Red Foxes and coyotes in the Central Oregon Cascades
 
-## Step1_GroomSNRFCALADietData_250327.R -- grooming data, prepping for following summaries and analysis\
-### Relevant files in DietData folder\
+## Step1_GroomSNRFCALADietData_250327.R -- grooming data, prepping for following summaries and analysis
+### Relevant files in DietData folder
 **SNRFCoyote_diet_250327.csv** -- raw data\
 **ProcessedRedFox_DietGeoData_250404.csv** -- QAQC'ed red fox diet data (output of "Step1") with all relevant columns\
 **ProcessedRedFox_DietGeoDataSimplified_250404.csv** -- QAQC'ed red fox diet data (output of "Step1") with subset of relevant columns\
 **ProcessedCoyoteRedFoxStudyArea_DietGeoData_250404.csv** -- QAQC'ed coyote diet data (output of "Step1") with all relevant columns\
 **ProcessedCoyoteRedFoxStudyArea_DietGeoDataSimplified_250404.csv** -- QAQC'ed coyote diet data (output of "Step1") with subset of relevant columns\
 
-## Step2_SNRFCALADiet_DietPatternsandOverlap_250328.R -- grooming data, prepping for following summaries and analysis\
-### Relevant files in DietData folder\
+## Step2_SNRFCALADiet_DietPatternsandOverlap_250328.R -- grooming data, prepping for following summaries and analysis
+### Relevant files in DietData folder
 **ProcessedRedFox_DietGeoDataSimplified_250404.csv** -- QAQC'ed red fox diet data (output of "Step1") with subset of relevant columns for formatting phyloplot data\
 **ProcessedCoyoteRedFoxStudyArea_DietGeoDataSimplified_250404.csv** -- QAQC'ed coyote diet data (output of "Step1") with subset of relevant columns for formatting phyloplot data\
 **ProcessedRedFox_PhyloSummaryData_250404.csv** -- red fox diet data formatted for phyloplots\
