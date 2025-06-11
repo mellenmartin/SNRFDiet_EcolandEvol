@@ -3,7 +3,7 @@
 # Sympatric Sierra Nevada Red Fox and Coyote Diet
 # Step 3 - # produce rarefraction/accumulation curves for  scat species diversity 
 #=============================
-#### details on data collection and source code scrubbed for double-blind review
+#### Diet data collected as part of carnivore occurrence/diet study funded by Katie Moriarty + Taal Levi and collected by Rogue Detection Teams
 ###################
 
 rm(list=ls());gc() #clear the memory
@@ -13,9 +13,9 @@ library(dplyr)
 library(ggplot2)
 
 ###  Load from csv
-setwd("C:/Users/yourwdhere")
+setwd("C:/Users/yourdrivehere/DietData")
 
-rm(list=ls());gc() #I like to start with these commands to clear the memory
+rm(list=ls());gc() #clear memory
 
 #####
 #load packages
