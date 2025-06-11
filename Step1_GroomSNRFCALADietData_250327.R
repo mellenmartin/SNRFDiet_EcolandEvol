@@ -3,7 +3,7 @@
 # Sympatric Sierra Nevada Red Fox and Coyote Diet
 # Step 1 - grooming data, prepping for following summaries and analysis
 #=============================
-#### details on data collection and source code scrubbed for double-blind review
+#### Diet data collected as part of carnivore occurrence/diet study funded by Katie Moriarty + Taal Levi and collected by Rogue Detection Teams
 ###################
 rm(list=ls());gc() #clear the memory
 
